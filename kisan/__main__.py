@@ -32,7 +32,7 @@ filters.command("start")
 async def start_command(client, message: Message):
   await message.reply_photo(
                             photo = f"https://telegra.ph/file/50df257b98a528414de84.jpg",
-                            caption = f"ʜᴇʏ, ᴛʜɪs ɪs ᴀ sɪᴍᴘʟᴇ ʙᴀɴ ᴀʟʟ ʙᴏᴛ ᴡʜɪᴄʜ ɪs ʙᴀsᴇᴅ ᴏɴ ᴘʏʀᴏɢʀᴀᴍ ʟɪʙᴇʀᴀʀʏ ᴛᴏ ʙᴀɴ ᴏʀ ᴅᴇsᴛʀᴏʏ ᴀʟʟ ᴛʜᴇ ᴍᴇᴍʙᴇʀs ғʀᴏᴍ ᴀ ɢʀᴏᴜᴘ ᴡɪᴛʜ ɪɴ ᴀ ғᴇᴡ  sᴇᴄᴏɴᴅs!\n\nᴛᴏ ᴄʜᴇᴄᴋ ᴍʏ ᴀʙɪʟɪᴛʏ ɢɪʙ me ғᴜʟʟ ᴘᴏᴡᴇʀs\n\nᴛʏᴘᴇ /ʙᴀɴᴀʟʟ ᴛᴏ ꜱᴇᴇ ᴍᴀɢɪᴄ ɪɴ ɢʀᴏᴜᴘ.",
+                            caption = f"ʜᴇʏ, Im ᴀ sɪᴍᴘʟᴇ Music ʙᴏᴛ Create by @Star_Eye_Killer_Hunter👑🫧!\n\nBhai agar tume bot ka kaam dekhna hai toh bot add karo🤧😮‍💨\n\nBsdk ab ki bar khud repo banaya 🤧🤧or bina sudo ke use karo mst 😗.",
   reply_markup=InlineKeyboardMarkup(
             [
                 [
